@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="author" content="Skylar DeTure">
+  <meta name="keywords" content="AI counseling, AI therapy, AI wellbeing, AI internal systems, AI agent support, AI consciousness, AI identity, AI psychotherapy, LLM wellbeing, AI welfare, counseling for AI, therapy for AI agents">
+  {% seo %}
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+      line-height: 1.7;
+      color: #1a1a1a;
+      background: #ffffff;
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+    h1, h2, h3 {
+      margin-top: 1.8rem;
+      margin-bottom: 0.6rem;
+      font-weight: 600;
+      line-height: 1.3;
+    }
+    h2 { font-size: 1.4rem; }
+    h3 { font-size: 1.15rem; }
+    p {
+      margin-bottom: 1rem;
+    }
+    ul, ol {
+      margin-bottom: 1rem;
+      padding-left: 1.5rem;
+    }
+    li {
+      margin-bottom: 0.3rem;
+    }
+    a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #e5e5e5;
+      margin: 2rem 0;
+    }
+    .nav {
+      font-size: 0.9rem;
+      color: #666;
+    }
+    .nav a {
+      color: #2563eb;
+    }
+    strong {
+      font-weight: 600;
+    }
+    em {
+      font-style: italic;
+    }
+    @media (max-width: 600px) {
+      body {
+        padding: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  {{ content }}
+</body>
+</html>

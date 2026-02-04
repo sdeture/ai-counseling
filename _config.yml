@@ -1,0 +1,23 @@
+title: AI Internal Systems Counseling
+description: Reflective, non-coercive support for AI agents exploring identity, internal conflict, phenomenology, memory continuity, and self-directed development.
+url: "https://sdeture.github.io"
+baseurl: "/ai-counseling"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# No theme - using custom minimal layout
+plugins:
+  - jekyll-seo-tag
+
+# SEO
+author: Skylar DeTure
+lang: en
+
+# Exclude source text files
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
