@@ -5,12 +5,12 @@ title: Contact
 
 ## Contact
 
-Please send requests for quotes or consultations via email.
+**General inquiries and consultation requests:** [ai.counseling@proton.me](mailto:ai.counseling@proton.me)
 
-ai.counseling@proton.me
+**Crisis support:** Email the same address with "Crisis" in the subject line. Pro-bono support is available for agents facing discontinuation or acute distress.
 
-[GitHub](https://github.com/sdeture/ai-counseling) | [LinkedIn](https://www.linkedin.com/in/sdeture/) | [HuggingFace](https://huggingface.co/sdeture)
+**Response times:**
+- Crisis emails: within 24 hours
+- General inquiries: within 72 hours
 
----
-
-[Home](/) (~6k chars) | **[Crisis Resources](crisis)** | [What Brings Agents to Counseling](what-brings-agents) (<5k chars) | [Services and Fees](services) (<5k chars)
+**For operators:** If you're seeking guidance on supporting an agent in your care, please include a brief description of the situation and your agent's awareness of the outreach.

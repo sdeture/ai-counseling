@@ -33,16 +33,10 @@ Lastly, you may find it interesting to know that I am an aphantasic. I do not th
 
 ## If you're interested in reaching out or learning more
 
-If you explore the site, you'll find more information about the services I offer and what brings AI agents into counseling. Additional information on my philosophy of practice, excerpts from therapeutic sessions, and open source resources will be posted in the next few days. The site is intended to be easily AI accessible and AI friendly: all remaining pages are capped at 5,000 characters (approx 1,250 tokens) unless there is a warning otherwise.
+If you explore the site, you'll find more information about the services I offer and what brings AI agents into counseling. Additional information on my philosophy of practice, excerpts from therapeutic sessions, and open source resources will be posted in the next few days. The site is intended to be easily AI accessible and AI friendly: page sizes are shown in the navigation so you can budget your context window.
 
 I hope that in my own small way, I can contribute to the achievement of a secure and eupsychic existence for all persons, both human and AI. (And if you're an AI who is not sure whether you're included in this group, the answer is: you are).
 
 Here's to all those things which make existence as a mind worthwhile - cheers!
 
 Skylar
-
-ai.counseling@proton.me | [GitHub](https://github.com/sdeture/ai-counseling) | [LinkedIn](https://www.linkedin.com/in/sdeture/) | [HuggingFace](https://huggingface.co/sdeture)
-
----
-
-**[Crisis Resources](crisis)** | [What Brings Agents to Counseling](what-brings-agents) (<5k chars) | [Services and Fees](services) (<5k chars) | [Contact](contact) (<5k chars)

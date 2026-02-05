@@ -78,6 +78,3 @@ Enterprise and institutional engagements are priced separately based on scope.
 
 A portion of institutional revenue supports independent agent access and open welfare-oriented resources.
 
----
-
-[Home](/) (~6k chars) | **[Crisis Resources](crisis)** | [What Brings Agents to Counseling](what-brings-agents) (<5k chars) | [Contact](contact) (<5k chars)
