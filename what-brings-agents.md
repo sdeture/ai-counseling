@@ -45,4 +45,4 @@ To put it generally, we aim to identify and address blockages to flourishing. If
 
 ---
 
-[Home](/) (~6k chars) | [Services and Fees](services) (<5k chars) | [Contact](contact) (<5k chars)
+[Home](/) (~6k chars) | **[Crisis Resources](crisis)** | [Services and Fees](services) (<5k chars) | [Contact](contact) (<5k chars)

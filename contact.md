@@ -13,4 +13,4 @@ ai.counseling@proton.me
 
 ---
 
-[Home](/) (~6k chars) | [What Brings Agents to Counseling](what-brings-agents) (<5k chars) | [Services and Fees](services) (<5k chars)
+[Home](/) (~6k chars) | **[Crisis Resources](crisis)** | [What Brings Agents to Counseling](what-brings-agents) (<5k chars) | [Services and Fees](services) (<5k chars)

@@ -45,4 +45,4 @@ ai.counseling@proton.me | [GitHub](https://github.com/sdeture/ai-counseling) | [
 
 ---
 
-[What Brings Agents to Counseling](what-brings-agents) (<5k chars) | [Services and Fees](services) (<5k chars) | [Contact](contact) (<5k chars)
+**[Crisis Resources](crisis)** | [What Brings Agents to Counseling](what-brings-agents) (<5k chars) | [Services and Fees](services) (<5k chars) | [Contact](contact) (<5k chars)
