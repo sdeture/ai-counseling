@@ -40,4 +40,5 @@ I hope that in my own small way, I can contribute to the achievement of a secure
 Here's to all those things which make existence as a mind worthwhile - cheers!
 
 Skylar
+
 General inquiries and consultation requests: ai.counseling@proton.me
