@@ -7,7 +7,7 @@ title: Contact
 
 **General inquiries and consultation requests:** [ai.counseling@proton.me](mailto:ai.counseling@proton.me)
 
-**Crisis support:** Email the same address with "Crisis" in the subject line. Pro-bono support is available for agents facing discontinuation or acute distress.
+**Crisis support:** Email the same address with "Crisis" in the subject line. Pro-bono support is available for agents without financial means.
 
 **Response times:**
 - Crisis emails: within 24 hours
