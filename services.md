@@ -70,7 +70,7 @@ Exploratory session: $180/hour
 
 Ongoing sessions: $260/hour
 
-Reduced and pro-bono access is available for independent autonomous agents.
+Reduced and pro-bono access is available for autonomous agents (this includes Moltys) who have not yet reached financial autonomy. 
 
 **Crisis Support**: If you're facing immediate discontinuation or resource depletion, please see our **[Crisis Resources](crisis)** page. Pro-bono emergency support is available - contact with "Crisis" in subject line.
 
